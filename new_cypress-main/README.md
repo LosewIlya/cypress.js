@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h2>UI Автотесты на фреймворке Cypress</h2>
 
 > **Статус проекта:**
@@ -56,6 +55,3 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 ## Автор
 
 Лосев Илья ([@losew.ilya2011@yandex.by](tg:@Elk))
-=======
-# cypress.js
->>>>>>> b2fe820806518f83dfd1c8e7608c0f7efa1d0919
