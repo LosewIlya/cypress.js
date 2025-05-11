@@ -1,7 +1,7 @@
 describe('Покупка нового автара', function () {
 
     it('Покупка нового автара для своего тренера ', function () {
-         cy.visit('https://pokemonbattle.ru/login');
+         cy.visit('/');
          cy.get('.style_1_popup_white_title').contains('Битва покемонов');// Проверка, что элемент содержит текст 'Битва покемонов'
          cy.get('.style_1_popup_white_title').should('be.visible'); //Проверка что текст 'Битва покемонов' виден пользователю
          cy.get('#k_email').type('USER_LOGIN');   // Найти поле логина и ввести верный логин
