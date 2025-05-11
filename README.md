@@ -31,12 +31,9 @@
 7. Выбрать спеку lesson_locators
 
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image](https://github.com/LosewIlya/cypress.js)
+![image]([https://github.com/LosewIlya/cypress.js](https://raw.githubusercontent.com/LosewIlya/cypress.js/refs/heads/master/result.png))
 
 
 ## Автор
 
-Лосев Илья ([@losew.ilya2011@yandex.by](tg:@Elk))
-=======
-# cypress.js
->>>>>>> b2fe820806518f83dfd1c8e7608c0f7efa1d0919
+Лосев Илья ([@losew.ilya2011@yandex.by](tg:@Elk96))
