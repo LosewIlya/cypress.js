@@ -18,7 +18,7 @@
 
 ```
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image](https://github.com/LosewIlya/cypress.js)
+![image](https://raw.githubusercontent.com/LosewIlya/cypress.js/refs/heads/master/result.png)
 
 
 ## Локальный запуск через Cypress UI
